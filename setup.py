@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="quizlet-sets-ashton0223",
-    version="0.0.7",
+    name="quizlet-sets",
+    version="0.0.1",
     author="Ashton South",
     author_email="aasouth223@gmail.com",
     description="A package to download Quizlet study sets",
