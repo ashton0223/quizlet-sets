@@ -3,7 +3,7 @@
 ### Usage:
 Install it useing `pip3 install quizlet-sets`. [WIP, only have example code]
 
-```
+```py
 from quizlet_sets import sets
 
 URL = "https://quizlet.com/686459638/test-set-flash-cards/?new" # Sample study set
