@@ -1,7 +1,7 @@
 # quizlet-sets - A library to download Quizlet study sets
 
 ### Usage:
-Install it useing `pip3 install quizlet-sets`.
+Install using pip: `pip3 install quizlet-sets`.
 
 ### Example:
 
